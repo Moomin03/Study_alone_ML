@@ -37,9 +37,11 @@ $X_{normalized} = \frac{X-X_{min}}{X_{max}-X_{min}}$
 - 데이터가 정규분포를 따르는지 확인하는 방법은 크게 시각적 방법과 통계적 방법으로 나뉩니다.
 ##### 시각적 방법
 1. 히스토그램 : 데이터를 히스토그램으로 시각화하여 종 모양(정규 분포)에 가까운지를 확인합니다.
-<사진>
+
+![Capt2](https://github.com/Moomin03/Study_alone_ML/blob/master/Chapter_1/histogram.png)
 2. QQ 플롯(Q-Q Plot) : 관측된 데이터의 분위수(quantile)를 정규 분포의 분위수와 비교하는 그래프입니다. 데이터가 정규 분포를 따르기 때문에 직선에 가까운 형태를 보여야 합니다.
-<사진>
+
+![Capt1](https://github.com/Moomin03/Study_alone_ML/blob/master/Chapter_1/qqplot.png)
 ##### 통계적 검정
 - 통계적 검정 방법들을 들어가기 전에 귀무가설, 대립가설에 대해서 알아야합니다.
 - 어려워보이지만 사실상 하나도 어렵지 않습니다.
@@ -65,7 +67,7 @@ $X_{normalized} = \frac{X-X_{min}}{X_{max}-X_{min}}$
 
 $W=\frac{(\sum_{i=1}^{n}a_ix_i)^2}{\sum_{i=1}^{n}(x_i-\bar{x})^2}$
 
-<사진>
+![Capt3](https://github.com/Moomin03/Study_alone_ML/blob/master/Chapter_1/shapiro.png)
 2. Kolmogorov-Smirnov 검정
 - 정의 : 두 분포가 동일한지, 또는 주어진 데이터가 특정 분포(주로 정규분포)를 따르는지를 검정하는 비모수적 방법입니다.
 - Kolmogorov-Smirnov 검정의 목적
@@ -78,11 +80,12 @@ $W=\frac{(\sum_{i=1}^{n}a_ix_i)^2}{\sum_{i=1}^{n}(x_i-\bar{x})^2}$
 
 $D=\underset{x}{sup}\left|F_n(x)-F(x) \right|$
 
-<사진>
+![Capt4](https://github.com/Moomin03/Study_alone_ML/blob/master/Chapter_1/kolmogorov.png)
 3. Anderson-Darling 검정
 - 정규성 검정의 한 종류로, Kolmogorov-Smirnov 검정보다 더 민감하게 분포의 꼬리 부분에서 차이를 감지할 수 있는 장점. 비모수적 방법입니다.
 - 검정 통계량 (A²)
 - 주어진 데이터의 경험적 누적분포함수(ECDF)와 가정된 분포의 누적분포함수(CDF) 사이의 차이를 기반으로 합니다. KS 검정과 유사하지만, 안데르손-달링 검정은 데이터 분포의 꼬리 부분에서 차이에 더 가중치를 둡니다.
 
 $A^2=-n-\frac{1}{n} \sum_{i=1}^{n}((2i-1)[lnF(Y_i)+ln(1-F(Y_{n+1-i}))])$
-<사진>
+
+![Capt5](https://github.com/Moomin03/Study_alone_ML/blob/master/Chapter_1/anderson.png)
