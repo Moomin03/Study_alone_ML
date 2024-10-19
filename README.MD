@@ -1,5 +1,32 @@
 ### 🔧 혼자 공부하는 머신러닝+딥러닝
-- 안녕하세요. 박해선 개발자님이 쓰신 혼자 공부하는 머신러닝+딥러닝 책에 대한 설명 및 구현입니다.
-- 박해선 개발자님이 정말 잘 써주셨지만, 처음 머신러닝을 접하시는 분들은 어려울 수도 있다는 생각을 했습니다.
-- 전처리 및 머신 러닝에 대한 중요한 부분에 대해서 열심히 풀어 적었으니 천천히 읽어보시면 좋을 것 같습니다.
+
+#### 🗄️ 디렉토리 구성
+```sh
+├─Study_alone_ML (혼자서 공부하는 머신러닝+딥러닝)
+│  └─Chapter_1
+│  │  ├─Jupyter Notebook
+│  │  │      Chapter01 첫 머신러닝.ipynb
+│  │  │      Chapter02 데이터 다루기.ipynb
+│  │  │      Chapter03 정규분포.ipynb
+│  │  │      Chapter04 전처리 적용.ipynb
+│  │  │      Chapter05 최근접회귀.ipynb
+│  │  │      Chapter06 선형회귀.ipynb
+│  │  │      Chapter07 규제.ipynb
+│  │  │      Chapter08 성능지표.ipynb
+│  │  ├─Image
+│  │  │      anderson.png
+│  │  │      histogram.png
+│  │  │      kolmogorov.png
+│  │  │      qqplot.png
+│  │  │      shapiro.png
+│  │  ├─README.md
+│  └─Chapter_2
+│  │  │      Chapter01 로지스틱 회귀.ipynb
+│  │  │      Chapter02 경사하강법.ipynb
+│  │  │      Chapter03 결정트리.ipynb
+│  │  │      Chapter04 교차검증과 그리드서치.ipynb
+│  │  │      Chapter05 랜덤포레스트.ipynb
+│  │  │      Chapter06 로지스틱 회귀 정리본.ipynb
+│  └─README.MD
+```
 
