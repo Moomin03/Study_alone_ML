@@ -27,6 +27,11 @@
 │  │  │      Chapter04 교차검증과 그리드서치.ipynb
 │  │  │      Chapter05 랜덤포레스트.ipynb
 │  │  │      Chapter06 로지스틱 회귀 정리본.ipynb
+│  │  │      Chapter07 서포트벡터머신.ipynb
+│  └─Chapter_3
+│  │  │      Chapter01 군집 알고리즘.ipynb
+│  │  ├─Datasets
+│  │  │      fruits_300.npy
 └────README.MD
 ```
 
