@@ -1,7 +1,7 @@
 ### 🔧 혼자 공부하는 머신러닝+딥러닝
 
 ---
-<img src="https://image.yes24.com/goods/96024871/XL.jpg" alt="Book" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="https://contents.kyobobook.co.kr/sih/fit-in/280x0/pdt/9781098104030.jpg" alt="Book" style="width: 200px; display: block; margin-left: auto; margin-right: auto;">
 
 ---
 #### 🗄️ 디렉토리 구성
