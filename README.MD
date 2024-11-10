@@ -34,6 +34,7 @@
 │  │  │      Chapter07 서포트벡터머신.ipynb
 │  └─Chapter_3
 │  │  │      Chapter01 군집 알고리즘.ipynb
+│  │  │      Chapter02 k-평균.ipynb
 │  │  ├─Datasets
 │  │  │      fruits_300.npy
 └────README.MD
