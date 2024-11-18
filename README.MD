@@ -35,6 +35,7 @@
 │  └─Chapter_3
 │  │  │      Chapter01 군집 알고리즘.ipynb
 │  │  │      Chapter02 k-평균.ipynb
+│  │  │      Chapter03 주성분 분석.ipynb
 │  │  ├─Datasets
 │  │  │      fruits_300.npy
 └────README.MD
