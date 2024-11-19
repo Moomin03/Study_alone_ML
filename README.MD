@@ -38,6 +38,8 @@
 │  │  │      Chapter03 주성분 분석.ipynb
 │  │  ├─Datasets
 │  │  │      fruits_300.npy
+│  └─Chapter_4
+│  │  │      Chapter01 인공 신경망.ipynb
 └────README.MD
 ```
 
