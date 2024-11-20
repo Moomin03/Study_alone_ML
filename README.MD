@@ -40,6 +40,7 @@
 │  │  │      fruits_300.npy
 │  └─Chapter_4
 │  │  │      Chapter01 인공 신경망.ipynb
+│  │  │      Chapter02 심층 신경망.ipynb
 └────README.MD
 ```
 
