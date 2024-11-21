@@ -4,6 +4,13 @@
 <img src="https://image.yes24.com/goods/96024871/XL.jpg" alt="Book" style="width: 200px; display: block; margin-left: auto; margin-right: auto;">
 
 ---
+#### 🐱 개발 환경
+	- PC : MackBook Air 2020, M1 Chip
+	- macOS : Sequoia 15.0.1
+	- Safari 18.0.1 (Jupyter Notebook)
+	- Library : requirements.txt
+
+---
 #### 🗄️ 디렉토리 구성
 ```sh
 ├─Study_alone_ML (혼자서 공부하는 머신러닝+딥러닝)
@@ -41,6 +48,11 @@
 │  └─Chapter_4
 │  │  │      Chapter01 인공 신경망.ipynb
 │  │  │      Chapter02 심층 신경망.ipynb
+│  │  │      Chapter03 신경망 모델 훈련.ipynb
+│  │  ├─Model
+│  │  │      best-model.keras
+│  │  │      model-weights.weights.h5
+│  │  │      model-whole.h5
 └────README.MD
 ```
 
