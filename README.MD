@@ -53,6 +53,10 @@
 │  │  │      best-model.keras
 │  │  │      model-weights.weights.h5
 │  │  │      model-whole.h5
+│  └─Chapter_5
+│  │  │      Chapter02 합성공 신경망을 사용한 이미지 분류.ipynb
+│  │  ├─Image
+│  │  │      model.png
 └────README.MD
 ```
 
