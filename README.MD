@@ -30,7 +30,6 @@
 │  │  │      kolmogorov.png
 │  │  │      qqplot.png
 │  │  │      shapiro.png
-│  │  ├─README.md
 │  └─Chapter_2
 │  │  │      Chapter01 로지스틱 회귀.ipynb
 │  │  │      Chapter02 경사하강법.ipynb
@@ -55,8 +54,10 @@
 │  │  │      model-whole.h5
 │  └─Chapter_5
 │  │  │      Chapter02 합성공 신경망을 사용한 이미지 분류.ipynb
+│  │  │      Chapter03 합성곱 신경망의 시각화.ipynb
 │  │  ├─Image
 │  │  │      model.png
+│  └─README.md
 └────README.MD
 ```
 
