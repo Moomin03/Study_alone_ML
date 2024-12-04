@@ -14,49 +14,50 @@
 #### 🗄️ 디렉토리 구성
 ```sh
 ├─Study_alone_ML (혼자서 공부하는 머신러닝+딥러닝)
-│  └─Chapter_1
+│  └─1장. 나의 머신러닝
 │  │  ├─Jupyter Notebook
-│  │  │      Chapter01 첫 머신러닝.ipynb
-│  │  │      Chapter02 데이터 다루기.ipynb
-│  │  │      Chapter03 정규분포.ipynb
-│  │  │      Chapter04 전처리 적용.ipynb
-│  │  │      Chapter05 최근접회귀.ipynb
-│  │  │      Chapter06 선형회귀.ipynb
-│  │  │      Chapter07 규제.ipynb
-│  │  │      Chapter08 성능지표.ipynb
-│  │  ├─Image
-│  │  │      anderson.png
-│  │  │      histogram.png
-│  │  │      kolmogorov.png
-│  │  │      qqplot.png
-│  │  │      shapiro.png
-│  └─Chapter_2
-│  │  │      Chapter01 로지스틱 회귀.ipynb
-│  │  │      Chapter02 경사하강법.ipynb
-│  │  │      Chapter03 결정트리.ipynb
-│  │  │      Chapter04 교차검증과 그리드서치.ipynb
-│  │  │      Chapter05 랜덤포레스트.ipynb
-│  │  │      Chapter06 로지스틱 회귀 정리본.ipynb
-│  │  │      Chapter07 서포트벡터머신.ipynb
-│  └─Chapter_3
-│  │  │      Chapter01 군집 알고리즘.ipynb
-│  │  │      Chapter02 k-평균.ipynb
-│  │  │      Chapter03 주성분 분석.ipynb
+│  │  │      3장. 첫 머신러닝.ipynb
+│  └─2장. 데이터 다루기
+│  │  ├─Jupyter Notebook
+│  │  │      1장. 훈련 세트와 테스트 세트.ipynb
+│  │  │      2장. 데이터 전처리.ipynb
+│  │  │      3장. 정규분포.ipynb
+│  └─3장. 회귀 알고리즘과 모델 규제
+│  │  ├─Jupyter Notebook
+│  │  │      1장. k-최근접 이웃 회귀.ipynb
+│  │  │      2장. 선형 회귀.ipynb
+│  │  │      3장. 특성 공학과 규제.ipynb
+│  │  │      4장. 성능 지표.ipynb
+│  └─4장. 다양한 분류 알고리즘
+│  │  ├─Jupyter Notebook
+│  │  │      1장. 로지스틱 회귀.ipynb
+│  │  │      2장. 확률적 경사하강법.ipynb
+│  │  │      3장. 로지스틱 회귀 추가설명.ipynb
+│  └─5장. 트리 알고리즘
+│  │  ├─Jupyter Notebook
+│  │  │      1장. 결정트리.ipynb
+│  │  │      2장. 교차검증과 그리드서치.ipynb
+│  │  │      3장. 트리와 앙상블.ipynb
+│  │  │      4장. 서포트 벡터머신 추가설명.ipynb
+│  └─6장. 비지도 학습
+│  │  ├─Jupyter Notebook
+│  │  │      1장. 군집 알고리즘.ipynb
+│  │  │      2장. k-평균.ipynb
+│  │  │      3장. 주성분 분석.ipynb
 │  │  ├─Datasets
 │  │  │      fruits_300.npy
-│  └─Chapter_4
-│  │  │      Chapter01 인공 신경망.ipynb
-│  │  │      Chapter02 심층 신경망.ipynb
-│  │  │      Chapter03 신경망 모델 훈련.ipynb
-│  │  ├─Model
-│  │  │      best-model.keras
-│  │  │      model-weights.weights.h5
-│  │  │      model-whole.h5
-│  └─Chapter_5
-│  │  │      Chapter02 합성공 신경망을 사용한 이미지 분류.ipynb
-│  │  │      Chapter03 합성곱 신경망의 시각화.ipynb
-│  │  ├─Image
-│  │  │      model.png
+│  └─7장. 딥러닝을 시작합니다
+│  │  ├─Jupyter Notebook
+│  │  │      1장. 인공 신경망.ipynb
+│  │  │      2장. 심층 신경망.ipynb
+│  │  │      3장. 신경망 모델 훈련.ipynb
+│  └─8장. 이미지를 위한 인공 신경망
+│  │  ├─Jupyter Notebook
+│  │  │      2장. 합성공 신경망을 사용한 이미지 분류.ipynb
+│  │  │      3장. 합성곱 신경망의 시각화.ipynb
+│  └─9장. 텍스트를 위한 인공 신경망
+│  │  ├─Jupyter Notebook
+│  │  │      2장. 순환 신경망으로 IMDB 리뷰 분류하기.ipynb
 │  └─README.md
 └────README.MD
 ```
