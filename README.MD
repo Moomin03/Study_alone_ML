@@ -74,6 +74,7 @@
 │  └─9장. 텍스트를 위한 인공 신경망
 │  │  ├─Jupyter Notebook
 │  │  │      2장. 순환 신경망으로 IMDB 리뷰 분류하기.ipynb
+│  │  │      3장. LSTM과 GRU 셀.ipynb
 │  └─README.md
 └────README.MD
 ```
