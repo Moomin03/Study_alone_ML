@@ -87,7 +87,7 @@
     mkdir "Git 파일"
 3. 저장소 클론:
     ```bash
-    git clone https://github.com/Moomin03/Standard_C.git
+    git https://github.com/Moomin03/Study_alone_ML
 4. 디렉토리 이동:
     ```bash
 
