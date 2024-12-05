@@ -3,14 +3,31 @@
 ---
 <img src="https://image.yes24.com/goods/96024871/XL.jpg" alt="Book" style="width: 200px; display: block; margin-left: auto; margin-right: auto;">
 
+
 ---
+### ✅ 소개
+    이 레퍼지토리는 **"혼자 공부하는 머신러닝+딥러닝" (박해선 지음)** 책의 실습 파일과 예제를 정리한 공간입니다. 책의 내용을 직접 구현하고 확장하면서 학습한 내용을 기록하고 공유하기 위해 제작되었습니다.
+
+
+---
+### ✅ 목차
+1. [✅ 개발 환경](#개발-환경)
+2. [✅ 디렉토리 구성](#디렉토리-구성)
+3. [✅ 디렉토리 설명](#디렉토리-설명)
+4. [✅ 실행 방법](#실행-방법)
+
+
+---
+<a name="개발-환경"></a>
 #### 🐱 개발 환경
 	- PC : MackBook Air 2020, M1 Chip
 	- macOS : Sequoia 15.0.1
 	- Safari 18.0.1 (Jupyter Notebook)
 	- Library : requirements.txt
 
+
 ---
+<a name="디렉토리-구성"></a>
 #### 🗄️ 디렉토리 구성
 ```sh
 ├─Study_alone_ML (혼자서 공부하는 머신러닝+딥러닝)
@@ -61,4 +78,17 @@
 │  └─README.md
 └────README.MD
 ```
+
+---
+<a name="실행-방법"></a>
+### ✅ 실행 방법
+1. Terminal 열기
+2. 디렉토리 생성:
+    ```bash
+    mkdir "Git 파일"
+3. 저장소 클론:
+    ```bash
+    git clone https://github.com/Moomin03/Standard_C.git
+4. 디렉토리 이동:
+    ```bash
 
